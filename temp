@@ -1,0 +1,39 @@
+// <SafeAreaView style={styles.container}>
+    //   {/* Flex Box */}
+    //   <View
+    //     style={{
+    //       backgroundColor: "dodgerblue",
+    //       flex: 0.4, // This takes all the available free space
+    //     }}
+    //   />
+    //   <View
+    //     style={{
+    //       backgroundColor: "gold",
+    //       flex: 1, // This takes all the available free space
+    //     }}
+    //   />
+    //   <View
+    //     style={{
+    //       backgroundColor: "tomato",
+    //       flex: 1, // This takes all the available free space
+    //     }}
+    //   />
+
+      {/* <View
+          style={{
+            backgroundColor: "dodgerblue",
+            width: "50%",
+            height: "50%",
+          }}
+        ></View> */}
+      {/* <Button title="Click Me" onPress={() => console.log(dash)} />
+        <Text>Hemlo World</Text>
+        <TouchableHighlight>
+          <Image
+            source={require("./assets/adaptive-icon.png")}
+            style={styles.images}
+          />
+        </TouchableHighlight>
+
+        <StatusBar style="auto" /> */}
+    // </SafeAreaView>
